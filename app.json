@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "auth-ninja",
+    "slug": "auth-ninja",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "auth-ninja"
+}
