@@ -1,9 +1,11 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
+import NavStack from "./stack/NavStack";
 
 const App = () => {
   return (
     <View>
+      <NavStack />
       {/* <loginscreen>
         <form>
           <input />
